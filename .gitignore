@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Test/verification artifacts created by running answer-key snippets
+chao.txt
+bai_tho.txt
+bai_tho_backup.txt
+binh_phuong.txt
+diem.csv
+to_lop.csv
+chi_tieu.csv
+nhat_ky.txt
+highscore.csv
+geom.py
+my_utils.py
+a.txt
+viet.txt
+test.txt
+login.csv
+my_art.png
+
+# Real student data — never commit
+certificates/
+private_student_data/
+
+# Filled-in copies of templates (not the templates themselves)
+business/students/

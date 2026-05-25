@@ -1,0 +1,15 @@
+# Python Course for Vietnamese High-School Beginners
+# Minimal beginner-safe dependencies for local install (Anaconda / VS Code + Jupyter)
+# Google Colab users do NOT need this file — Colab has all of these pre-installed.
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# Tested with Python 3.10 and 3.11.
+
+jupyterlab>=4.0
+notebook>=7.0
+ipykernel>=6.25
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
